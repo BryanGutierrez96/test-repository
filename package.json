@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/BryanGutierrez96/test-repository#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.17.0"
   }
 }

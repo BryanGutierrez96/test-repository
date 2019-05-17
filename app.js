@@ -1,7 +1,7 @@
 const express =require("express")
 const app = express()
 
-app.get("/",(req,res)=>{
+app.get("/api/v1/get",(req,res)=>{
     res.send({message:"Hello World"})
 })
 console.log("Server on");
